@@ -11,10 +11,19 @@ img {
   height: auto;
 }
 
+/*border-radius to curve lines on navbar*/
 .navbar {
   width: 80%;
   margin-left: 20%;
   margin-right: 20%;
+  opacity: 0.80;
+  border-radius: 15px;
+  border-width: 10px;
+  border-color: white;
+}
+
+.headshot {
+  border-radius: 100px;
 }
 
 a.nav-link{
