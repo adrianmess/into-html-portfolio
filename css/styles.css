@@ -29,3 +29,15 @@ img {
 a.nav-link{
   text-align: center;
 }
+
+.expand {
+  display: none;
+}
+
+.expand:target {
+  display: block;
+}
+
+h2 {
+  text-align: left;
+}
