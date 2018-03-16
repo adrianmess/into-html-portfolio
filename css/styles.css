@@ -11,6 +11,20 @@ img {
   height: auto;
 }
 
+#expand2 li {
+  text-align: left;
+  margin-left: 10%;
+}
+
+#expand3 li {
+margin-left: 10%;
+width:100%;
+}
+.job {
+  font-weight: bold;
+}
+
+
 /*border-radius to curve lines on navbar*/
 .navbar {
   width: 80%;
@@ -26,6 +40,7 @@ img {
   border-radius: 100px;
 }
 
+
 a.nav-link{
   text-align: center;
 }
@@ -38,6 +53,15 @@ a.nav-link{
   display: block;
 }
 
-h2 {
+.row {
+  max-width: 50%;
+}
+.row #expand1 {
   text-align: left;
+  Margin-left: -20px;
+  max-width: 65%;
+
+.row #expand2 {
+  Margin-left: -20px;
+  max-width: 100%;
 }
