@@ -12,10 +12,9 @@ This is my Portfolio i created for the first project at Epicodus
 
 git remote add [remote name] https://github.com/adrianmess/portfolio
 git remote -v
-git push [remote name] https://github.com/adrianmess/portfolio
+git push [remote name] master
 git clone https://github.com/adrianmess/portfolio
 
-End with an example of getting some data out of the system or using it for a little demo
 
 
 ## License
