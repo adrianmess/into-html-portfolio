@@ -10,10 +10,10 @@ This is my Portfolio i created for the first project at Epicodus
 
 ### Installing
 
-git remote add [remote name] https://github.com/adrianmess/portfolio
-git remote -v
-git push [remote name] master
-git clone https://github.com/adrianmess/portfolio
+git remote add [remote name] https://github.com/adrianmess/portfolio . 
+git remote -v . 
+git push [remote name] master . 
+git clone https://github.com/adrianmess/portfolio . 
 
 
 
