@@ -13,7 +13,7 @@ https://adrianmess.github.io/portfolio/
 
 ### Installing
 
-git remote add [remote name] https://github.com/adrianmess/portfolio
+git remote add [remote name] https://github.com/adrianmess/portfolio 
 git remote -v  
 git push [remote name] master 
 git clone https://github.com/adrianmess/portfolio 
