@@ -8,6 +8,9 @@ Week 1 - Portfolio Project
 ## Description
 This is my Portfolio i created for the first project at Epicodus
 
+## GitHub page link
+https://adrianmess.github.io/portfolio/
+
 ### Installing
 
 git remote add [remote name] https://github.com/adrianmess/portfolio . 
